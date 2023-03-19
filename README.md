@@ -1,6 +1,6 @@
 # Courses
 
-#### The site won't work correctly without the allowCORS extension!!
+#### The site won't work correctly without the [allowCORS](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) extension!!
 
 ### Built with
 - Typescript

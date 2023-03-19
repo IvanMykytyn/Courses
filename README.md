@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Courses
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### The site won't work correctly without the allowCORS extension!!
+
+### Built with
+- Typescript
+- React
+- React-Query, Axios
+- hls.js
+- Mantine (ui library)
+- Zustand
+
 
 ## Available Scripts
 
